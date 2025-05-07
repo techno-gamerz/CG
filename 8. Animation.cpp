@@ -1,0 +1,1 @@
+// Implement animation principles for any object
